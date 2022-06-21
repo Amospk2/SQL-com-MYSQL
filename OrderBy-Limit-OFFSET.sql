@@ -5,7 +5,6 @@ ORDER BY id ASC;
 ORDER BY id DESC;
 ORDER BY id DESC, first_name DESC; (vai priorizar o id, geralmente se usa apenas 1 coluna como principal)
 
-
 */
 
 
@@ -21,7 +20,6 @@ FROM users
 WHERE id 
 BETWEEN 1 AND 3 ORDER BY  first_name ASC, id DESC;
 -- ordena pelo first_name
-
 
 
 /*
