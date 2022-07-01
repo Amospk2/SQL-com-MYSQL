@@ -1,9 +1,22 @@
+/*
+Selecionando dados de duas tabelas:
+*/
 
 SELECT u.id as uid, p.id as pid, p.bio, u.first_name
 FROM users AS u, profiles AS p 
 where u.id = p.user_id;
 
 
+
+
+/*
+Joins for w3school:
+
+INNER JOIN: Returns records that have matching values in both tables
+LEFT JOIN: Returns all records from the left table, and the matched records from the right table
+RIGHT JOIN: Returns all records from the right table, and the matched records from the left table
+CROSS JOIN: Returns all records from both tables
+ */
 
 
 /*
