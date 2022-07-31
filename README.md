@@ -14,9 +14,5 @@ Esse repositorio foi criado para armazenar scripts SQL utilizando o MySQL, aqui 
 - <a href="https://youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD">Curso de Modelagem de Dados</a>
 - <a href="https://youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk">Curso de SQL com MySQL (Completo)</a>
 
-- Programa utilizado: DBeaver-ce
-- Linguagem: SQL
-- Gerenciador de banco: MySQL
-
 
 
